@@ -6,6 +6,12 @@ import java.io.File;
 import javax.imageio.ImageIO;
 import javax.imageio.stream.FileImageInputStream;
 
+
+/**
+ * 
+ * @author ouyanghuachen
+ *
+ */
 public class ImageToString {
 	
 	public static String toChar = "qwertyuioa*dfasdf345678905erwer545|)123!@#$%^&*|+_| ";
