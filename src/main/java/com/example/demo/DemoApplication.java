@@ -34,4 +34,10 @@ public class DemoApplication {
 	public  String add() {
 		return "add";
 	}
+
+
+	@GetMapping("/save")
+	public  String save() {
+		return "add";
+	}
 }
