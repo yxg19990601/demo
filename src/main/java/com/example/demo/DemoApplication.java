@@ -15,7 +15,7 @@ public class DemoApplication {
 	
 	@GetMapping("/get")
 	public String getHello () {
-		return "hello ";
+		return "hello get  56";
 	}
 	
 	
@@ -26,6 +26,6 @@ public class DemoApplication {
 	
 	@GetMapping("/set")
 	public String getHello2 () {
-		return "hello2 ";
+		return "hello2  exec set ";
 	}
 }
