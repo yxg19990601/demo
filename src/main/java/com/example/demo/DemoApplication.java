@@ -28,4 +28,10 @@ public class DemoApplication {
 	public String getHello2 () {
 		return "hello2  exec set ";
 	}
+
+
+	@GetMapping("/javaadd")
+	public  String add() {
+		return "add";
+	}
 }
