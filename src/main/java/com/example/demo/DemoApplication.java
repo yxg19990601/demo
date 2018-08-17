@@ -40,4 +40,13 @@ public class DemoApplication {
 	public  String save() {
 		return "add save";
 	}
+
+
+	@GetMapping("/savea")
+	public  String savea() {
+		return "add savea";
+	}
+
+
+
 }
