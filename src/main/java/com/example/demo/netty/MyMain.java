@@ -7,6 +7,8 @@ package com.example.demo.netty;
 public class MyMain {
     public static void main(String[] args) {
         System.out.println("MyMain.main");
+        
+        System.out.println("not bug");
 
 
         System.out.println("args = " + args);
