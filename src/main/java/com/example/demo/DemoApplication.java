@@ -44,7 +44,7 @@ public class DemoApplication {
 
 	@GetMapping("/savea")
 	public  String savea() {
-		return "add savea";
+		return "add savec";
 	}
 
 
