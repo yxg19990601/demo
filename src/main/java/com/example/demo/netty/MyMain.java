@@ -10,6 +10,8 @@ public class MyMain {
         
         System.out.println("not bug");
 
+        System.out.println("master ");
+
 
         System.out.println("args = " + args);
 
