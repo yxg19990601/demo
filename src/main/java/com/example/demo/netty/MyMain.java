@@ -15,7 +15,7 @@ public class MyMain {
 
         System.out.println("args = " + args);
 
-
+        System.out.println("hot fix");
         String[] strings = new String[9];
         
         strings[0] = "a";
