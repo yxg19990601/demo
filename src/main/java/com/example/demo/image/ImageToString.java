@@ -17,7 +17,7 @@ public class ImageToString {
 	public static String toChar = "qwertyuioa*dfasdf345678905erwer545-)123!@#$%^&*-+_- ";
 	public static int width = 64, height = 128;
 	public static void main(String[] args) throws Exception {
-		
+		System.out.println("ImageToString.main");
 		System.out.println("add bug");
 		BufferedImage bufferedImage = ImageIO.read(new File("C:\\Users\\ouyanghuachen\\Desktop\\1.jpg"));
 		
